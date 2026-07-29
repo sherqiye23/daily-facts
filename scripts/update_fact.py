@@ -1,6 +1,7 @@
 import json
 import random
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -13,14 +14,14 @@ README_FILE = ROOT / "README.md"
 with open(FACTS_FILE, "r", encoding="utf-8") as f:
     facts = json.load(f)
 
-# Random fakt seç
+# Choose a random fact
 fact = random.choice(facts)
 
 # current-fact.json update
 with open(CURRENT_FACT_FILE, "w", encoding="utf-8") as f:
     json.dump(fact, f, indent=2, ensure_ascii=False)
 
-today = datetime.utcnow().strftime("%Y-%m-%d")
+today = datetime.now(ZoneInfo("Asia/Baku")).strftime("%d %B %Y, %H:%M")
 
 # README update
 readme = f"""# 💡 Did You Know?
@@ -33,7 +34,7 @@ readme = f"""# 💡 Did You Know?
 
 ---
 
-_Last updated: {today} UTC_
+Last updated: {today} (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
 """

@@ -2,7 +2,7 @@ name: Daily Fact
 
 on:
   schedule:
-    - cron: "0 8 * * *"
+    - cron: "0 20 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,7 +19,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
+          python-version: "3.14.6"
 
       - name: Run script
         run: python scripts/update_fact.py
