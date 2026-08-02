@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-💡 **Science**
+🍃 **Plants**
 
-LED lights convert up to 90 percent of their energy into light rather than heat.
+Photosynthesis by land plants and ocean phytoplankton produces almost all of the oxygen we breathe.
 
 ---
 
-Last updated: 02 August 2026, 00:41 (Baku Time)
+Last updated: 03 August 2026, 00:43 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
