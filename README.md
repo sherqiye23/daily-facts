@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🍞 **Food**
+💡 **History**
 
-Yeast makes bread dough rise by converting sugars into carbon dioxide gas bubbles.
+Thomas Edison did not invent the lightbulb, but he created the first commercially practical incandescent bulb.
 
 ---
 
-Last updated: 04 August 2026, 00:55 (Baku Time)
+Last updated: 05 August 2026, 01:02 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
