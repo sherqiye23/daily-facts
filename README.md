@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-💡 **History**
+☄️ **Space**
 
-Thomas Edison did not invent the lightbulb, but he created the first commercially practical incandescent bulb.
+Halley's Comet passes Earth roughly every 75 to 76 years, next appearing in mid-2061.
 
 ---
 
-Last updated: 05 August 2026, 01:02 (Baku Time)
+Last updated: 06 August 2026, 00:57 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
