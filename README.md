@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-☄️ **Space**
+🇲🇨 **Geography**
 
-Halley's Comet passes Earth roughly every 75 to 76 years, next appearing in mid-2061.
+Monaco and Indonesia have almost identical national flags, featuring equal red and white bands.
 
 ---
 
-Last updated: 06 August 2026, 00:57 (Baku Time)
+Last updated: 07 August 2026, 04:50 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
