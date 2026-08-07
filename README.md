@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🇲🇨 **Geography**
+🚢 **History**
 
-Monaco and Indonesia have almost identical national flags, featuring equal red and white bands.
+The Titanic's distress signals were among the early real-world uses of the SOS Morse code signal.
 
 ---
 
-Last updated: 07 August 2026, 04:50 (Baku Time)
+Last updated: 08 August 2026, 00:30 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
