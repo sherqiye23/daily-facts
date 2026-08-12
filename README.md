@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-☄️ **Space**
+💡 **Science**
 
-Halley's Comet passes Earth roughly every 75 to 76 years, next appearing in mid-2061.
+LED lights convert up to 90 percent of their energy into light rather than heat.
 
 ---
 
-Last updated: 12 August 2026, 00:35 (Baku Time)
+Last updated: 13 August 2026, 00:33 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
