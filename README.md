@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🫒 **Food**
+🪸 **Ocean**
 
-Freshly picked olives are extremely bitter and must be cured in brine before eating.
+The Great Barrier Reef is the world's largest living structure and can be seen from space.
 
 ---
 
-Last updated: 14 August 2026, 00:31 (Baku Time)
+Last updated: 15 August 2026, 00:22 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
