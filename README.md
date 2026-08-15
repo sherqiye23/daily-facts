@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🪸 **Ocean**
+🚢 **History**
 
-The Great Barrier Reef is the world's largest living structure and can be seen from space.
+The Titanic's distress signals were among the early real-world uses of the SOS Morse code signal.
 
 ---
 
-Last updated: 15 August 2026, 00:22 (Baku Time)
+Last updated: 16 August 2026, 00:12 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
