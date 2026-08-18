@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🎧 **Technology**
+🍌 **Plants**
 
-Noise-canceling headphones generate sound waves that are inverted inverted to cancel out background noise.
+Bananas grow upward toward the sun due to a process called negative geotropism.
 
 ---
 
-Last updated: 18 August 2026, 00:15 (Baku Time)
+Last updated: 19 August 2026, 00:13 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
