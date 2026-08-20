@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🗽 **History**
+💾 **Technology**
 
-The Statue of Liberty was originally a shiny copper color before reacting with air to turn green.
+The first 1-terabyte hard drive was released in 2007; today, thumb drives easily match that storage.
 
 ---
 
-Last updated: 20 August 2026, 00:16 (Baku Time)
+Last updated: 21 August 2026, 00:18 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
