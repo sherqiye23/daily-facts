@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🦎 **Animals**
+🌍 **Space**
 
-Chameleons change color primarily to regulate body temperature and communicate emotions, not for camouflage.
+Earth's core is approximately as hot as the surface of the Sun, reaching temperatures around 5,500 degrees Celsius.
 
 ---
 
-Last updated: 22 August 2026, 00:15 (Baku Time)
+Last updated: 23 August 2026, 00:12 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
