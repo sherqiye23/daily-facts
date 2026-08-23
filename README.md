@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌍 **Space**
+🩸 **Human Body**
 
-Earth's core is approximately as hot as the surface of the Sun, reaching temperatures around 5,500 degrees Celsius.
+If stretched out straight, the blood vessels in an adult human body would circle the Earth more than twice.
 
 ---
 
-Last updated: 23 August 2026, 00:12 (Baku Time)
+Last updated: 24 August 2026, 00:12 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
