@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🩸 **Human Body**
+🖋️ **History**
 
-If stretched out straight, the blood vessels in an adult human body would circle the Earth more than twice.
+The US Constitution was penned in 1787 and remains one of the world's shortest active national constitutions.
 
 ---
 
-Last updated: 24 August 2026, 00:12 (Baku Time)
+Last updated: 25 August 2026, 00:19 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
