@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🖋️ **History**
+⭐ **Space**
 
-The US Constitution was penned in 1787 and remains one of the world's shortest active national constitutions.
+Supernova explosions create many of the heavy elements found throughout the universe, including gold and silver.
 
 ---
 
-Last updated: 25 August 2026, 00:19 (Baku Time)
+Last updated: 26 August 2026, 00:18 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
