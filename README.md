@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🦝 **Animals**
+🌶️ **Food**
 
-Raccoons wash their food in water to soften the skin on their paws, enhancing their sense of touch.
+The heat of chili peppers is measured using the Scoville scale, based on capsaicin content.
 
 ---
 
-Last updated: 27 August 2026, 02:36 (Baku Time)
+Last updated: 28 August 2026, 07:55 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
