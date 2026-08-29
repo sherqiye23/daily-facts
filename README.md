@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🏝️ **Geography**
+📜 **History**
 
-The country of Sweden has more islands than any other nation in the world, with over 267,000.
+The shortest war in recorded history was fought between Britain and Zanzibar in 1896, lasting 38 minutes.
 
 ---
 
-Last updated: 29 August 2026, 06:37 (Baku Time)
+Last updated: 30 August 2026, 02:07 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
