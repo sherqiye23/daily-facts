@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌶️ **Food**
+🏝️ **Geography**
 
-The heat of chili peppers is measured using the Scoville scale, based on capsaicin content.
+The country of Sweden has more islands than any other nation in the world, with over 267,000.
 
 ---
 
-Last updated: 28 August 2026, 07:55 (Baku Time)
+Last updated: 29 August 2026, 06:37 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
