@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-📜 **History**
+🌌 **Space**
 
-The shortest war in recorded history was fought between Britain and Zanzibar in 1896, lasting 38 minutes.
+There are more stars in the observable universe than there are grains of sand on all of Earth's beaches.
 
 ---
 
-Last updated: 30 August 2026, 02:07 (Baku Time)
+Last updated: 31 August 2026, 02:14 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
