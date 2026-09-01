@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌑 **Space**
+📜 **History**
 
-The Moon moves about 3.8 centimeters away from the Earth every single year.
+The Rosetta Stone was key to deciphering ancient Egyptian hieroglyphs because it contained text in three scripts.
 
 ---
 
-Last updated: 01 September 2026, 03:30 (Baku Time)
+Last updated: 02 September 2026, 02:12 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
