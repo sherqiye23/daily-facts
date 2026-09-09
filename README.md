@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🫀 **Human Body**
+🎈 **Science**
 
-The human heart beats about 100,000 times a day, pumping around 7,500 liters of blood.
+Helium is the only element on Earth that was discovered in the Sun before it was found on our planet.
 
 ---
 
-Last updated: 09 September 2026, 02:11 (Baku Time)
+Last updated: 10 September 2026, 02:07 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
