@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🎈 **Science**
+🇨🇦 **Geography**
 
-Helium is the only element on Earth that was discovered in the Sun before it was found on our planet.
+Canada contains more natural lakes than all other countries in the world combined.
 
 ---
 
-Last updated: 10 September 2026, 02:07 (Baku Time)
+Last updated: 11 September 2026, 02:06 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
