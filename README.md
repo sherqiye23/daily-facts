@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🇨🇦 **Geography**
+🌲 **Nature**
 
-Canada contains more natural lakes than all other countries in the world combined.
+The Amazon Basin generates more than 20 percent of the planet's oxygen supply and river discharge.
 
 ---
 
-Last updated: 11 September 2026, 02:06 (Baku Time)
+Last updated: 12 September 2026, 02:06 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
