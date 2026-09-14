@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🦈 **Ocean**
+🌲 **Plants**
 
-Whale sharks are the largest fish in the sea, but they are gentle filter feeders that pose no threat to humans.
+The oldest living single tree on Earth is a Bristlecone Pine in California estimated to be over 4,800 years old.
 
 ---
 
-Last updated: 14 September 2026, 01:56 (Baku Time)
+Last updated: 15 September 2026, 02:51 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
