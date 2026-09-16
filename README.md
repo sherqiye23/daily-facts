@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🕳️ **Nature**
+🔊 **Science**
 
-Caves can develop their own internal weather systems, complete with localized clouds and fog.
+Sound travels about four times faster in water than it does through air.
 
 ---
 
-Last updated: 16 September 2026, 02:33 (Baku Time)
+Last updated: 17 September 2026, 02:29 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
