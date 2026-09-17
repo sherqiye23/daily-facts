@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🔊 **Science**
+⚡ **Nature**
 
-Sound travels about four times faster in water than it does through air.
+Thunder is the sonic boom sound produced by rapidly heating air expanding around a lightning stroke.
 
 ---
 
-Last updated: 17 September 2026, 02:29 (Baku Time)
+Last updated: 18 September 2026, 02:32 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
