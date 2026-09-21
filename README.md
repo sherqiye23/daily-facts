@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🦞 **Ocean**
+🪙 **History**
 
-Lobsters do not experience traditional aging and continue to grow, reproduce, and stay strong as long as they live.
+Paper money was first invented and utilized in China during the Tang Dynasty in the 7th century.
 
 ---
 
-Last updated: 21 September 2026, 02:03 (Baku Time)
+Last updated: 22 September 2026, 02:56 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
