@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🇦🇺 **Geography**
+💡 **Science**
 
-Australia is wider than the Moon in geographic diameter.
+LED lights convert up to 90 percent of their energy into light rather than heat.
 
 ---
 
-Last updated: 24 September 2026, 02:33 (Baku Time)
+Last updated: 25 September 2026, 02:50 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
