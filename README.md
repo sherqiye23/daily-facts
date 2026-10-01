@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌊 **Nature**
+🦇 **Animals**
 
-Tsunamis can travel across open ocean waters at speeds exceeding 800 kilometers per hour.
+Bats are the only mammals capable of sustained, powered flight.
 
 ---
 
-Last updated: 01 October 2026, 03:19 (Baku Time)
+Last updated: 02 October 2026, 03:34 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
