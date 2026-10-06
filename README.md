@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🎧 **Technology**
+⛵ **History**
 
-Noise-canceling headphones generate sound waves that are inverted inverted to cancel out background noise.
+Viking navigators used sunstones to locate the position of the sun on cloudy or foggy days.
 
 ---
 
-Last updated: 05 October 2026, 02:37 (Baku Time)
+Last updated: 06 October 2026, 05:02 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
