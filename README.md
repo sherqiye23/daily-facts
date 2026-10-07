@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-👑 **History**
+🌌 **Space**
 
-Cleopatra lived chronologically closer to the Apollo moon landing than to the building of the Great Pyramid.
+The Milky Way galaxy is estimated to contain between 100 and 400 billion stars.
 
 ---
 
-Last updated: 07 October 2026, 03:27 (Baku Time)
+Last updated: 08 October 2026, 03:56 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
