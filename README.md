@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌌 **Space**
+⛵ **History**
 
-The Milky Way galaxy is estimated to contain between 100 and 400 billion stars.
+Viking navigators used sunstones to locate the position of the sun on cloudy or foggy days.
 
 ---
 
-Last updated: 08 October 2026, 03:56 (Baku Time)
+Last updated: 09 October 2026, 04:03 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
