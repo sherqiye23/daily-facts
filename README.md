@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-⛵ **History**
+🌕 **Space**
 
-Viking navigators used sunstones to locate the position of the sun on cloudy or foggy days.
+Because the Moon has no atmosphere, temperature extremes range from 120 degrees Celsius to -130 degrees Celsius.
 
 ---
 
-Last updated: 09 October 2026, 04:03 (Baku Time)
+Last updated: 10 October 2026, 03:43 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
