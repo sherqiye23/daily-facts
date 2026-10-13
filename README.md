@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🍍 **Food**
+🧊 **Science**
 
-A pineapple takes about two to three years to grow and mature into a single fruit.
+Hot water can freeze faster than cold water under certain circumstances, a phenomenon called the Mpemba effect.
 
 ---
 
-Last updated: 12 October 2026, 03:19 (Baku Time)
+Last updated: 13 October 2026, 05:44 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
