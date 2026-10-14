@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-💾 **Technology**
+🌊 **Nature**
 
-The first 1-terabyte hard drive was released in 2007; today, thumb drives easily match that storage.
+Tsunamis can travel across open ocean waters at speeds exceeding 800 kilometers per hour.
 
 ---
 
-Last updated: 14 October 2026, 03:31 (Baku Time)
+Last updated: 15 October 2026, 02:52 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
