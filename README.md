@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-☕ **Food**
+🥕 **Food**
 
-Coffee is the second most traded commodity in the world after crude oil.
+Carrots were originally purple or yellow; orange carrots were bred selectively in the Netherlands in the 17th century.
 
 ---
 
-Last updated: 22 October 2026, 02:54 (Baku Time)
+Last updated: 23 October 2026, 02:52 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
