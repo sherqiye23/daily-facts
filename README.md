@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌫️ **Nature**
+🌋 **Geography**
 
-Fog is essentially a cloud that touches the surface of the ground.
+Iceland is located on a tectonic rift, allowing it to generate most of its heating from geothermal energy.
 
 ---
 
-Last updated: 26 October 2026, 02:10 (Baku Time)
+Last updated: 27 October 2026, 03:28 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
