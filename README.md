@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🫒 **Food**
+🍕 **Food**
 
-Freshly picked olives are extremely bitter and must be cured in brine before eating.
+The world's first commercial pizzeria opened in Naples, Italy, in 1830 and is still open today.
 
 ---
 
-Last updated: 28 October 2026, 03:22 (Baku Time)
+Last updated: 29 October 2026, 03:43 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
