@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-❄️ **Science**
+💻 **Technology**
 
-Liquid nitrogen boils at -196 degrees Celsius (-320 degrees Fahrenheit).
+The first computer virus was created in 1971 and was named the 'Creeper program'.
 
 ---
 
-Last updated: 03 November 2026, 05:55 (Baku Time)
+Last updated: 04 November 2026, 04:17 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
