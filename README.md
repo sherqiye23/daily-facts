@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-💻 **Technology**
+🌶️ **Food**
 
-The first computer virus was created in 1971 and was named the 'Creeper program'.
+The heat of chili peppers is measured using the Scoville scale, based on capsaicin content.
 
 ---
 
-Last updated: 04 November 2026, 04:17 (Baku Time)
+Last updated: 05 November 2026, 04:39 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
