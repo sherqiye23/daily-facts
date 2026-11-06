@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌶️ **Food**
+🇦🇺 **Geography**
 
-The heat of chili peppers is measured using the Scoville scale, based on capsaicin content.
+Australia is wider than the Moon in geographic diameter.
 
 ---
 
-Last updated: 05 November 2026, 04:39 (Baku Time)
+Last updated: 06 November 2026, 04:37 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
