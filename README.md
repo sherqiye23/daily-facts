@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🍎 **Plants**
+📜 **History**
 
-Apples float in water because roughly 25 percent of their volume is made up of air pockets.
+The shortest war in recorded history was fought between Britain and Zanzibar in 1896, lasting 38 minutes.
 
 ---
 
-Last updated: 10 November 2026, 06:27 (Baku Time)
+Last updated: 11 November 2026, 04:19 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
