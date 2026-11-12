@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-📜 **History**
+🥑 **Food**
 
-The shortest war in recorded history was fought between Britain and Zanzibar in 1896, lasting 38 minutes.
+Avocados are botanically single-seeded berries rather than vegetables.
 
 ---
 
-Last updated: 11 November 2026, 04:19 (Baku Time)
+Last updated: 12 November 2026, 05:44 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
