@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🌿 **Plants**
+📧 **Technology**
 
-Bamboo is one of the fastest-growing plants on Earth. Some species can grow nearly one meter in a single day.
+The symbol '@' was chosen for email addresses by Ray Tomlinson in 1971 because it was rarely used in typing.
 
 ---
 
-Last updated: 16 November 2026, 03:39 (Baku Time)
+Last updated: 17 November 2026, 06:41 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
