@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🦦 **Animals**
+🦥 **Animals**
 
-Sea otters hold hands while sleeping so they do not drift apart in the water.
+Sloths take up to two weeks to digest a single meal.
 
 ---
 
-Last updated: 19 November 2026, 05:34 (Baku Time)
+Last updated: 20 November 2026, 05:33 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
