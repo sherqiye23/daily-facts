@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🦥 **Animals**
+🇳🇵 **Geography**
 
-Sloths take up to two weeks to digest a single meal.
+Nepal is the only country in the world that does not have a rectangular or square national flag.
 
 ---
 
-Last updated: 20 November 2026, 05:33 (Baku Time)
+Last updated: 21 November 2026, 04:59 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
