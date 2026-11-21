@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-🇳🇵 **Geography**
+💡 **Science**
 
-Nepal is the only country in the world that does not have a rectangular or square national flag.
+LED lights convert up to 90 percent of their energy into light rather than heat.
 
 ---
 
-Last updated: 21 November 2026, 04:59 (Baku Time)
+Last updated: 22 November 2026, 03:59 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
