@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-💾 **Technology**
+⭐ **Space**
 
-The save icon used in software applications represents a 3.5-inch floppy disk, obsolete since the 2000s.
+When you look at a star in the night sky, you are looking back in time, as its light took light-years to reach your eyes.
 
 ---
 
-Last updated: 23 November 2026, 04:31 (Baku Time)
+Last updated: 24 November 2026, 08:30 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
