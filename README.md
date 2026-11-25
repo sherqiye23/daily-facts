@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-⭐ **Space**
+🧲 **Science**
 
-When you look at a star in the night sky, you are looking back in time, as its light took light-years to reach your eyes.
+Earth's magnetic field flips its polarity every few hundred thousand years, making North into South.
 
 ---
 
-Last updated: 24 November 2026, 08:30 (Baku Time)
+Last updated: 25 November 2026, 07:15 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
