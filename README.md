@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-😊 **Human Body**
+⚖️ **Science**
 
-Smiling triggers the release of endorphins and serotonin, which naturally lower stress levels.
+Mass measures the amount of matter in an object, whereas weight depends on gravitational strength.
 
 ---
 
-Last updated: 26 November 2026, 06:32 (Baku Time)
+Last updated: 27 November 2026, 06:33 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
