@@ -2,12 +2,12 @@
 
 ## Today's Fact
 
-⚖️ **Science**
+🍯 **Food**
 
-Mass measures the amount of matter in an object, whereas weight depends on gravitational strength.
+Honeybees must visit roughly 2 million flowers to produce one pound of honey.
 
 ---
 
-Last updated: 27 November 2026, 06:33 (Baku Time)
+Last updated: 28 November 2026, 06:23 (Baku Time)
 
 This repository updates automatically every day using GitHub Actions.
